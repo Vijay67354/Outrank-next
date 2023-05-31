@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="91px" viewBox="0 0 61 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icn-local_seo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 60.2666667 0 60.2666667 90.1333333 0 90.1333333"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Service---International-SEO" transform="translate(-694.000000, -5750.000000)">
+            <g id="icn-local_seo" transform="translate(694.000000, 5750.000000)">
+                <g id="Group-3">
+                    <g transform="translate(0.266667, 0.400000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M16.95,30.0444037 C16.95,37.3038828 22.8486,43.1888303 30.1333333,43.1888303 C37.4143,43.1888303 43.3166667,37.3038828 43.3166667,30.0444037 C43.3166667,22.7849247 37.4143,16.8999771 30.1333333,16.8999771 C22.8486,16.8999771 16.95,22.7849247 16.95,30.0444037 M30.1333333,0 C46.7631667,0.0187777523 60.2440667,13.4598929 60.2666667,30.0444037 C60.2666667,43.241408 41.4333333,75.2086536 33.3425333,88.3418135 C32.6607667,89.4609676 31.4441333,90.1407222 30.1333333,90.1333333 C28.8225333,90.1333333 27.6059,89.457212 26.9203667,88.3455691 C18.8333333,75.204898 0,43.2263858 0,30.0444037 C0.0188333333,13.4598929 13.4997333,0.0187777523 30.1333333,0 Z" id="Fill-1" fill="#18234C" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
